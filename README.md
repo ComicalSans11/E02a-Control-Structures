@@ -62,3 +62,6 @@ there... is no line 22?
 it kept track of my guesses and told me how many i took at the end of the program.
  - *Extra credit:* open main10.py. Add a comment to each line describing what it is doing (a comment follows a pound sign [#]).
  - *Extra credit:* open main11.py. What is happening on lines 6-11?
+
+DESCRIPTION OF PROJECT:
+We're analyzing various python scripts and explaining what they do based on the operators and variables it uses. The scripts get progressively more complicated, but they solve issues with the code which gradually improves the "question-response" aspect.
